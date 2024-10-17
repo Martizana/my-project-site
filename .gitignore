@@ -1,0 +1,14 @@
+# Ignore everything except wp-content (you can customize based on what you want to keep)
+wp-admin/
+wp-includes/
+*.log
+wp-config.php
+.htaccess
+readme.html
+license.txt
+wp-content/plugins/
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+wp-content/backup/
+wp-content/languages/
